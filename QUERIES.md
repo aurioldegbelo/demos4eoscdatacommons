@@ -13,6 +13,8 @@
 <em> Additional examples </em>
  <ol>
   <li>Compare available development plans data in Germany</li>
+  <li>Datasets about floodplains for the Elbe river</li>
   <li>Water temperature datasets</li>
-
+  <li>Surface elevation data for the Greenland Ice Sheet</li>
+  <li>Water level datasets from Germany</li>
 </ol>
